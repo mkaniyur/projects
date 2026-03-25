@@ -1,0 +1,1 @@
+(map (lambda (x) (head x)) (list (list 1 2) (list 3 4) (cons 5 6)))

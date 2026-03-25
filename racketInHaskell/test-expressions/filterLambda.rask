@@ -1,0 +1,1 @@
+(filter (lambda (x) (if (= x 5) (and #t #f) (or #t #f))) (list 1 2 3 4 5 6))
