@@ -14,4 +14,4 @@ Implementation of a register machine language simulator in Lisp & implementation
 
 ## mobilityTrajectories
 
-Application & testing of a spatial clustering method to predict individuals' employment and residence locations using mobility data & a limited ground-truth dataset.
+Application & testing of a spatial clustering method to predict individuals' employment and residence locations using mobility data & a limited ground-truth dataset. Coded in Python.
