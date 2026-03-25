@@ -15,3 +15,7 @@ Implementation of a register machine language simulator in Lisp & implementation
 ## mobilityTrajectories
 
 Application & testing of a spatial clustering method to predict individuals' employment and residence locations using mobility data & a limited ground-truth dataset. Coded in Python.
+
+## racketInHaskell
+
+Implementation of the functional programming language Racket in the functional programming language Haskell, including an Abstract Syntax Tree, Parser, and Evaluator. Coded in Haskell.
